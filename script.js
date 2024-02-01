@@ -1,3 +1,5 @@
+// Class definitions
+
 class Person {
   constructor(name, age) {
     this._name = name;
